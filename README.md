@@ -26,54 +26,47 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
 File->Preferences-Settings->Additional Boards Manager URLs
-<img src="img/step2.png"
-alt="step two screenshot"
-style="margin: 10px">
 
+![step 2 screenshot](/img/step2.png)
 
 ### Step 3:
 Open Boards Manager:
 
-Tool->Board->Boards Manger
-<img src="img/step3.png"
-alt="step two screenshot"
-style="margin: 10px">
+![step 3 screenshot](img/step3.png)
+
 
 ### Step 4:
 Search for ESP8266 boards and download the board package:
-<img src="img/step4.png"
-alt="step two screenshot"
-style="margin: 10px">
+
+![step 4 screenshot](img/step4.png)
+
 
 ### Step 5:
 Switch to the Generic ESP8266 Module:
 
 Tools->Boards->ESP8266 boards->Generic ESP8266 Module
 
-<img src="img/step5.png"
-alt="step two screenshot"
-style="margin: 10px">
+![step 5 screenshot](img/step5.png)
+
 
 ### Step 6:
 Plug in your ESP8266 board and select the correct port(the one appeared after you plug in your board), in my case, it is COM5:
 
-<img src="img/step6.png"
-alt="step two screenshot"
-style="margin: 10px">
+![step 6 screenshot](img/step6.png)
+
 
 ### Step 7:
 Compile and upload the code:
 find both scripts, the "in_button" one should be connected to your button and the "in_pc" one should be connected to your motherboard.
 
-<img src="img/step7.png"
-alt="step two screenshot"
-style="margin: 10px">
+![step 7 screenshot](img/step7.png)
+
 
 ### Step 8:
 
 Connect your hardwares:
-<img src="img/step8.png"
-alt="step two screenshot"
-style="margin: 10px">
+
+![step 8 screenshot](img/step8.png)
+
 
 ## All DONE!!!
