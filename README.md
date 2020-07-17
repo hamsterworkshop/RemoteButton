@@ -27,7 +27,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 File->Preferences-Settings->Additional Boards Manager URLs
 
-![step 2 screenshot](/img/step2.png)
+![step 2 screenshot](img/step2.png)
 
 ### Step 3:
 Open Boards Manager:
